@@ -1,0 +1,6 @@
+arn:aws:iam::542604945401:user/u_canhtn
+
+mk: Anhcanh@97
+
+user: u_canhtn
+mk: Abc@12345
